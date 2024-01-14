@@ -45,6 +45,7 @@ bazel-testlogs
 
 # Other
 .DS_Store
+.cxx
 cmake-build-debug
 dist
 jacoco.exec

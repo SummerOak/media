@@ -1,0 +1,6 @@
+[submodule "libraries/decoder_av1/src/main/jni/cpu_features"]
+	path = libraries/decoder_av1/src/main/jni/cpu_features
+	url = https://github.com/google/cpu_features
+[submodule "libraries/decoder_av1/src/main/jni/libgav1"]
+	path = libraries/decoder_av1/src/main/jni/libgav1
+	url = https://chromium.googlesource.com/codecs/libgav1

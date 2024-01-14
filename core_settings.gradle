@@ -100,5 +100,5 @@ include modulePrefix + 'test-utils'
 project(modulePrefix + 'test-utils').projectDir = new File(rootDir, 'libraries/test_utils')
 include modulePrefix + 'test-session-common'
 project(modulePrefix + 'test-session-common').projectDir = new File(rootDir, 'libraries/test_session_common')
-include modulePrefix + 'test-session-current'
-project(modulePrefix + 'test-session-current').projectDir = new File(rootDir, 'libraries/test_session_current')
+//include modulePrefix + 'test-session-current'
+//project(modulePrefix + 'test-session-current').projectDir = new File(rootDir, 'libraries/test_session_current')
